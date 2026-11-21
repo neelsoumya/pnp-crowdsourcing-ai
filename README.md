@@ -136,7 +136,7 @@ Full details are in [CONTRIBUTING.md](CONTRIBUTING.md). Summary:
 - **Cite precisely** and mark anything unverified as such.
 - **One idea per file.** Small, reviewable PRs.
 
-<!--
+
 ## Verification policy
 
 Where an AI has contributed a genuine new result in a famous area, the bar that was met was independent examination by human mathematicians plus a machine-checked formalization. That is the bar here.
@@ -148,7 +148,7 @@ Where an AI has contributed a genuine new result in a famous area, the bar that 
 - **Extraordinary claims** (a full resolution of P vs NP, or any claim that overturns a classical barrier theorem): must be a **short, self-contained, complete** argument, must explicitly state where it evades each barrier in `docs/barriers_checklist.md`, and will not be announced as a result until Tier 3. Most such claims fail at the point where the same argument would also "prove" something false (for example a relativized or algebrized version). **Test your argument against that first.**
 - Do not use this repository to submit claims to the Clay Mathematics Institute; its rules require publication in a qualifying venue and a waiting period.
 
--->
+
 
 
 ## Using AI assistants responsibly
