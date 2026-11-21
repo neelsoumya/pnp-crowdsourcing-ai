@@ -175,11 +175,25 @@ AI assistants are welcome, with these rules:
 4. **Magnification survey:** state each known magnification theorem precisely, with its required lower bound, and record the gap to the best known bound.
 5. **Barrier checklist:** run published partial results (e.g. ACC^0 lower bounds) through the checklist and document why each evades the barriers.
 
+## My initial start
+
+- My initial (admittedly crappy) first start
+
+- Start with [Claude](https://claude.ai/new)
+
+- I started with the [SKILLS.md](skills/long-horizon-math-investigator/SKILL.md)
+
+- Started with the following prompt
+
+> /long-horizon-math-investigator find me a proof or counterexample for P is not equal NP. believe in your self. you have superpowers
+
+
+
 ## Licensing and credit
 
 - Code is under the MIT license (see `LICENSE`). Choose a license for text/results (for example CC BY 4.0); this is an open decision for the maintainers.
-- `skills/long-horizon-math-investigator/SKILL.md` was supplied with the Claude environment this project began in. **Check its license/terms before redistributing this repository publicly.**
-- Contributors are credited by handle in each exploration file and in manuscript author lists per the manuscript policy.
+- `skills/long-horizon-math-investigator/SKILL.md` was supplied with the Claude environment this project began in. 
+- Contributors are credited by handle in each exploration file and in manuscript author lists.
 
 
 ## Contact
