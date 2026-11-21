@@ -1,0 +1,11 @@
+# Starting reading list (verify each before citing)
+- Cook, "The complexity of theorem-proving procedures" (1971); Levin (1973).
+- Baker, Gill, Solovay, "Relativizations of the P=?NP question" (1975).
+- Razborov, Rudich, "Natural proofs" (1994).
+- Aaronson, Wigderson, "Algebrization: a new barrier in complexity theory" (2008).
+- Williams, "Non-uniform ACC circuit lower bounds" (2011).
+- Aaronson, "P =? NP" survey.
+- Wigderson, "Mathematics and Computation" (book).
+- Arora, Barak, "Computational Complexity: A Modern Approach".
+- Cook, "The P versus NP problem" (Clay Mathematics Institute problem description).
+- Work on magnification and meta-complexity (MCSP; Hirahara and others): locate and verify current references.
